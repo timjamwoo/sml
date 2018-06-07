@@ -1,6 +1,6 @@
-body {
+.post-body {
     font: normal normal normal 16px/1.55em avenir-lt-w01_35-light1475496,sans-serif;
-}
+
 h2 {
     font-size: 19px;
     font-weight: normal;
@@ -21,3 +21,4 @@ h5 {
     color: #213f92;
     font-weight: normal;
 } 
+}
