@@ -1,34 +1,40 @@
 .post-body {
     font: normal normal normal 16px/1.55em avenir-lt-w01_35-light1475496,sans-serif;
 }
-#htmlComp a {
+
+.post-body a {
     color: #337ab7;
     text-decoration: none;
 }
-#htmlComp h2 { 
+
+.htmlComp a {
+    color: #337ab7;
+    text-decoration: none;
+}
+.htmlComp h2 { 
 	font-size:2.25em; 
 	line-height:1.2; 
 	padding:10px 0 10px; 
 	color:#333
 }
-#htmlComp h3 { 
+.htmlComp h3 { 
 	font-size:1.5em; 
 	text-align:left; 
 	line-height:normal; 
 	font-weight:bold; 
 	padding:10px 0 10px;
 }
-#htmlComp h4 {
+.htmlComp h4 {
     font-size: 16px;
     color: #213f92;
     font-weight: normal;
 } 
-#htmlComp h5 {
+.htmlComp h5 {
     font-size: 14px;
     color: #213f92;
     font-weight: normal;
 } 
-#htmlComp .signoff 
+.htmlComp .signoff 
 	{
 	text-align:center;
 	color:#213f92;
